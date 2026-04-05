@@ -1,4 +1,10 @@
+// Project: Sorting Algorithms
+// Author: Sachin Yadav
+// Description: This program demonstrates basic sorting algorithms in C++.
+// Concepts: Arrays, sorting, time complexity
+
 #include <iostream>
+using namespace std;#include <iostream>
 using namespace std;
 
 int main() {
