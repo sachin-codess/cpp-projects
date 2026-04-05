@@ -1,4 +1,10 @@
+// Project: Stack Implementation
+// Author: Sachin Yadav
+// Description: This program demonstrates stack operations such as push and pop.
+// Concepts: Data structures, stack, LIFO
+
 #include <iostream>
+using namespace std;#include <iostream>
 using namespace std;
 
 struct Node {
