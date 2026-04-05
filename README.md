@@ -6,7 +6,7 @@ It shows my practice with problem-solving, data structures, sorting algorithms, 
 ## Projects
 
 ### 1. Sorting Program
-**File:** `sorting.cpp`  
+**File:** sorting_algorithms.cpp 
 This program demonstrates sorting concepts in C++.  
 Skills used:
 - Arrays
@@ -15,7 +15,7 @@ Skills used:
 - Time complexity understanding
 
 ### 2. Stack Program
-**File:** `stack.cpp`  
+**File:** stack_implementation.cpp 
 This program demonstrates stack implementation in C++.  
 Skills used:
 - Stack operations
@@ -24,7 +24,7 @@ Skills used:
 - Logical design
 
 ### 3. File Handling Program
-**File:** `file.cpp`  
+**File:** file_handling.cpp
 This program demonstrates basic file handling in C++.  
 Skills used:
 - Reading from files
